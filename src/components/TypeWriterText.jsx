@@ -55,7 +55,7 @@ const TypewriterText = ({
 
     return (
         <div className={`font-mono ${className}`}>
-            <span className="text-xl md:text-2xl font-bold text-slate-800 dark:text-slate-200">
+            <span className="text-xl md:text-2xl font-bold text-slate-200">
                 {displayText}
                 {showCursor && (
                     <motion.span

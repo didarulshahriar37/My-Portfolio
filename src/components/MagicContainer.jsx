@@ -44,7 +44,7 @@ const MagicContainer = ({ children, className }) => {
       onMouseLeave={() => setIsHovered(false)}
     >
       {/* INNER CONTENT (NO GLOW) */}
-      <div className="relative rounded-3xl bg-white dark:bg-slate-950 w-full h-full">
+      <div className="relative rounded-3xl bg-slate-950 w-full h-full">
         {children}
       </div>
     </div>
