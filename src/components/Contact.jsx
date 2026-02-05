@@ -46,7 +46,7 @@ const Contact = () => {
             <div className="flex flex-col md:flex-row items-center gap-30">
                 {/* Socials */}
                 <div className="flex flex-col gap-4 md:w-1/3">
-                    <a href="https://facebook.com/" target="_blank" className="social-btn flex items-center gap-2">
+                    <a href="https://facebook.com/didarulshahriar" target="_blank" className="social-btn flex items-center gap-2">
                         <FaFacebookF size={20} /> Facebook
                     </a>
                     <a href="https://wa.me/8801872686773" target="_blank" className="social-btn flex items-center gap-2">
@@ -104,7 +104,7 @@ const Contact = () => {
           transition: all 0.3s ease;
         }
         .social-btn:hover {
-          background: #9E7AFF;
+          background: #0096FF;
           transform: translateY(-2px);
         }
       `}</style>

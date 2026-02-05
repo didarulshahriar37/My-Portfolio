@@ -65,13 +65,14 @@ const Navbar = () => {
 
                 {/* Buttons */}
                 <div className="hidden md:flex items-center space-x-2 lg:space-x-3">
-                    <a href="#" className="flex items-center space-x-1.5 lg:space-x-2 px-3 lg:px-4 py-1.5 lg:py-2 text-xs lg:text-sm font-medium text-gray-200 border border-gray-700 rounded-md hover:bg-gray-800 transition-all hover:shadow-md">
+                    <a href="https://drive.google.com/uc?export=download&id=1W4SB7rfZ72jCJ1S7dDfvno4znPeB18py
+" className="flex items-center space-x-1.5 lg:space-x-2 px-3 lg:px-4 py-1.5 lg:py-2 text-xs lg:text-sm font-medium text-gray-200 border border-gray-700 rounded-md hover:bg-gray-800 transition-all hover:shadow-md">
                         <span>Resume</span>
                         <ExternalLink className="h-3 w-3 lg:h-4 lg:w-4" />
                     </a>
-                    <button className="px-4 lg:px-6 py-1.5 lg:py-2 text-xs lg:text-sm font-medium bg-gray-50 text-gray-900 rounded-md hover:bg-gray-200 transition-all shadow-sm hover:shadow-lg transform hover:scale-105">
+                    <a href='https://wa.me/8801872686773' className="px-4 lg:px-6 py-1.5 lg:py-2 text-xs lg:text-sm font-medium bg-gray-50 text-gray-900 rounded-md hover:bg-gray-200 transition-all shadow-sm hover:shadow-lg transform hover:scale-105">
                         Hire Me
-                    </button>
+                    </a>
                 </div>
 
                 {/* Mobile Menu Button */}
@@ -90,13 +91,13 @@ const Navbar = () => {
                             </a>
                         ))}
                         <div className="pt-4 mt-2 border-t border-gray-700 flex flex-col space-y-2">
-                            <a href="#" className="flex items-center justify-center space-x-2 px-3 py-2.5 text-sm font-medium border border-gray-700 rounded-md hover:bg-gray-800 transition-colors">
+                            <a href="https://drive.google.com/uc?export=download&id=1W4SB7rfZ72jCJ1S7dDfvno4znPeB18py" className="flex items-center justify-center space-x-2 px-3 py-2.5 text-sm font-medium border border-gray-700 rounded-md hover:bg-gray-800 transition-colors">
                                 <span>Resume</span>
                                 <ExternalLink className="h-4 w-4" />
                             </a>
-                            <button className="px-3 py-2.5 text-sm font-medium bg-gray-50 text-gray-900 rounded-md hover:bg-gray-200 transition-colors">
+                            <a href='https://wa.me/8801872686773' className="px-3 py-2.5 text-sm font-medium bg-gray-50 text-gray-900 rounded-md hover:bg-gray-200 transition-colors">
                                 Hire Me
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>

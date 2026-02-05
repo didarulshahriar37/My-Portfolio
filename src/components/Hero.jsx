@@ -45,7 +45,8 @@ const Hero = () => {
 
                             {/* Download Resume */}
                             <a
-                                href=""
+                                href="https://drive.google.com/uc?export=download&id=1W4SB7rfZ72jCJ1S7dDfvno4znPeB18py
+"
                                 className="btn btn-primary btn-wide"
                             >
                                 Download Resume
@@ -54,7 +55,7 @@ const Hero = () => {
 
                         {/* Social Icons */}
                         <div className="flex gap-4 mt-4">
-                            <a href="https://facebook.com/" target="_blank" className="social-btn">
+                            <a href="https://facebook.com/didarulshahriar" target="_blank" className="social-btn">
                                 <FaFacebookF size={25} />
                             </a>
                             <a href="https://linkedin.com/in/didarulshahriar" target="_blank" className="social-btn">

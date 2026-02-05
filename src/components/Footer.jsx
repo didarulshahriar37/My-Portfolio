@@ -26,7 +26,7 @@ function Footer() {
         },
         {
             name: "Facebook",
-            href: "#",
+            href: "https://facebook.com/didarulshahriar",
             svg: (
                 <svg
                     className="size-6 transition-transform duration-200 hover:scale-110"
